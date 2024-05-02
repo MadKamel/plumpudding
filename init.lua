@@ -22,3 +22,5 @@ minetest.register_craft({
         {"", "lottfarming:bowl",  ""}
     }
 })
+
+--TODO: Add cooking.
